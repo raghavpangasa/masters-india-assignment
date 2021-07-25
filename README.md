@@ -5,7 +5,7 @@ API List
 Admin UserName : admin
 Admin Password : guest
 
-categories/                                     [get_all_categories]
+categories/                                     [get_all_categories]\n
 categories/<slug: sub-category-name>            [get_subcategories]
 products/category/<slug: category-name>         [get_product_from_category]
 products/sub_category/<slug: sub-category-name> [get_product_from_subcategory]
