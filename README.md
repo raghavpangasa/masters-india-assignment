@@ -11,5 +11,5 @@ products/category/<slug: category-name>         [get_product_from_category]<br /
 products/sub_category/<slug: sub-category-name> [get_product_from_subcategory]<br />
 
 
-I have also created the frontend part of this application which can be accessed at 127.0.0.1:8000
+I have also created the frontend part of this application which can be accessed at 127.0.0.1:8000<br />
 Admin can be accessed at 127.0.0.1:8000/admin
